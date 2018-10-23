@@ -1,0 +1,166 @@
+kode_provinsi,nama_provinsi,kelas_rumah_sakit,jumlah_rumah_sakit,jumlah_tempat_tidur
+11,"Prov. Nanggroe Aceh Darussalam","Kelas A",2,366
+11,"Prov. Nanggroe Aceh Darussalam","Kelas B",5,1103
+11,"Prov. Nanggroe Aceh Darussalam","Kelas C",19,2275
+11,"Prov. Nanggroe Aceh Darussalam","Kelas D",6,449
+11,"Prov. Nanggroe Aceh Darussalam","Belum Ditetapkan Kelas",19,1032
+12,"Prov. Sumatera Utara","Kelas A",3,875
+12,"Prov. Sumatera Utara","Kelas B",16,3966
+12,"Prov. Sumatera Utara","Kelas C",42,4484
+12,"Prov. Sumatera Utara","Kelas D",13,653
+12,"Prov. Sumatera Utara","Belum Ditetapkan Kelas",100,8180
+13,"Prov. Sumatera Barat","Kelas A",1,213
+13,"Prov. Sumatera Barat","Kelas B",4,1666
+13,"Prov. Sumatera Barat","Kelas C",21,2451
+13,"Prov. Sumatera Barat","Kelas D",14,373
+13,"Prov. Sumatera Barat","Belum Ditetapkan Kelas",19,720
+14,"Prov. Riau","Kelas A",1,182
+14,"Prov. Riau","Kelas B",8,1691
+14,"Prov. Riau","Kelas C",19,1859
+14,"Prov. Riau","Kelas D",10,593
+14,"Prov. Riau","Belum Ditetapkan Kelas",15,792
+15,"Prov. Jambi","Kelas A",3,149
+15,"Prov. Jambi","Kelas B",2,506
+15,"Prov. Jambi","Kelas C",10,1299
+15,"Prov. Jambi","Kelas D",6,336
+15,"Prov. Jambi","Belum Ditetapkan Kelas",6,506
+16,"Prov. Sumatera Selatan","Kelas A",3,1089
+16,"Prov. Sumatera Selatan","Kelas B",5,887
+16,"Prov. Sumatera Selatan","Kelas C",16,2103
+16,"Prov. Sumatera Selatan","Kelas D",9,583
+16,"Prov. Sumatera Selatan","Belum Ditetapkan Kelas",9,756
+17,"Prov. Bengkulu","Kelas A",0,0
+17,"Prov. Bengkulu","Kelas B",2,509
+17,"Prov. Bengkulu","Kelas C",3,296
+17,"Prov. Bengkulu","Kelas D",10,421
+17,"Prov. Bengkulu","Belum Ditetapkan Kelas",3,409
+18,"Prov. Lampung","Kelas A",1,46
+18,"Prov. Lampung","Kelas B",4,970
+18,"Prov. Lampung","Kelas C",14,1260
+18,"Prov. Lampung","Kelas D",5,235
+18,"Prov. Lampung","Belum Ditetapkan Kelas",22,1532
+19,"Prov. Kepulauan Bangka Belitung","Kelas A",0,0
+19,"Prov. Kepulauan Bangka Belitung","Kelas B",1,120
+19,"Prov. Kepulauan Bangka Belitung","Kelas C",5,576
+19,"Prov. Kepulauan Bangka Belitung","Kelas D",6,370
+19,"Prov. Kepulauan Bangka Belitung","Belum Ditetapkan Kelas",1,62
+21,"Prov. Kepulauan Riau","Kelas A",0,0
+21,"Prov. Kepulauan Riau","Kelas B",3,587
+21,"Prov. Kepulauan Riau","Kelas C",9,789
+21,"Prov. Kepulauan Riau","Kelas D",4,140
+21,"Prov. Kepulauan Riau","Belum Ditetapkan Kelas",9,496
+31,"Prov. DKI Jakarta","Kelas A",9,3716
+31,"Prov. DKI Jakarta","Kelas B",27,6138
+31,"Prov. DKI Jakarta","Kelas C",31,2058
+31,"Prov. DKI Jakarta","Kelas D",5,296
+31,"Prov. DKI Jakarta","Belum Ditetapkan Kelas",70,7707
+32,"Prov. Jawa Barat","Kelas A",9,2712
+32,"Prov. Jawa Barat","Kelas B",37,8967
+32,"Prov. Jawa Barat","Kelas C",74,7290
+32,"Prov. Jawa Barat","Kelas D",31,1996
+32,"Prov. Jawa Barat","Belum Ditetapkan Kelas",92,7203
+33,"Prov. Jawa Tengah","Kelas A",7,3522
+33,"Prov. Jawa Tengah","Kelas B",33,9401
+33,"Prov. Jawa Tengah","Kelas C",94,11104
+33,"Prov. Jawa Tengah","Kelas D",75,4692
+33,"Prov. Jawa Tengah","Belum Ditetapkan Kelas",38,2235
+34,"Prov. D I Yogyakarta","Kelas A",3,1222
+34,"Prov. D I Yogyakarta","Kelas B",10,2420
+34,"Prov. D I Yogyakarta","Kelas C",6,4075
+34,"Prov. D I Yogyakarta","Kelas D",24,1240
+34,"Prov. D I Yogyakarta","Belum Ditetapkan Kelas",23,1130
+35,"Prov. Jawa Timur","Kelas A",5,3353
+35,"Prov. Jawa Timur","Kelas B",38,8882
+35,"Prov. Jawa Timur","Kelas C",92,10149
+35,"Prov. Jawa Timur","Kelas D",49,3006
+35,"Prov. Jawa Timur","Belum Ditetapkan Kelas",102,6428
+36,"Prov. Banten","Kelas A",1,241
+36,"Prov. Banten","Kelas B",10,2378
+36,"Prov. Banten","Kelas C",19,1093
+36,"Prov. Banten","Kelas D",5,301
+36,"Prov. Banten","Belum Ditetapkan Kelas",38,2351
+51,"Prov. Bali","Kelas A",3,1098
+51,"Prov. Bali","Kelas B",4,978
+51,"Prov. Bali","Kelas C",15,1325
+51,"Prov. Bali","Kelas D",10,567
+51,"Prov. Bali","Belum Ditetapkan Kelas",22,1056
+52,"Prov. Nusa Tenggara Barat","Kelas A",0,0
+52,"Prov. Nusa Tenggara Barat","Kelas B",2,492
+52,"Prov. Nusa Tenggara Barat","Kelas C",6,1038
+52,"Prov. Nusa Tenggara Barat","Kelas D",8,406
+52,"Prov. Nusa Tenggara Barat","Belum Ditetapkan Kelas",6,258
+53,"Prov. Nusa Tenggara Timur","Kelas A",0,0
+53,"Prov. Nusa Tenggara Timur","Kelas B",1,352
+53,"Prov. Nusa Tenggara Timur","Kelas C",10,1156
+53,"Prov. Nusa Tenggara Timur","Kelas D",21,1719
+53,"Prov. Nusa Tenggara Timur","Belum Ditetapkan Kelas",9,431
+61,"Prov. Kalimantan Barat","Kelas A",0,0
+61,"Prov. Kalimantan Barat","Kelas B",5,1535
+61,"Prov. Kalimantan Barat","Kelas C",11,1083
+61,"Prov. Kalimantan Barat","Kelas D",13,959
+61,"Prov. Kalimantan Barat","Belum Ditetapkan Kelas",9,645
+62,"Prov. Kalimantan Tengah","Kelas A",0,0
+62,"Prov. Kalimantan Tengah","Kelas B",2,560
+62,"Prov. Kalimantan Tengah","Kelas C",6,730
+62,"Prov. Kalimantan Tengah","Kelas D",6,283
+62,"Prov. Kalimantan Tengah","Belum Ditetapkan Kelas",2,61
+63,"Prov. Kalimantan Selatan","Kelas A",1,60
+63,"Prov. Kalimantan Selatan","Kelas B",2,1113
+63,"Prov. Kalimantan Selatan","Kelas C",12,1655
+63,"Prov. Kalimantan Selatan","Kelas D",2,204
+63,"Prov. Kalimantan Selatan","Belum Ditetapkan Kelas",12,818
+64,"Prov. Kalimantan Timur","Kelas A",1,239
+64,"Prov. Kalimantan Timur","Kelas B",6,1590
+64,"Prov. Kalimantan Timur","Kelas C",9,937
+64,"Prov. Kalimantan Timur","Kelas D",18,474
+64,"Prov. Kalimantan Timur","Belum Ditetapkan Kelas",16,1435
+71,"Prov. Sulawesi Utara","Kelas A",1,250
+71,"Prov. Sulawesi Utara","Kelas B",1,813
+71,"Prov. Sulawesi Utara","Kelas C",15,2073
+71,"Prov. Sulawesi Utara","Kelas D",10,698
+71,"Prov. Sulawesi Utara","Belum Ditetapkan Kelas",8,472
+72,"Prov. Sulawesi Tengah","Kelas A",0,0
+72,"Prov. Sulawesi Tengah","Kelas B",3,957
+72,"Prov. Sulawesi Tengah","Kelas C",8,1002
+72,"Prov. Sulawesi Tengah","Kelas D",3,402
+72,"Prov. Sulawesi Tengah","Belum Ditetapkan Kelas",11,415
+73,"Prov. Sulawesi Selatan","Kelas A",2,949
+73,"Prov. Sulawesi Selatan","Kelas B",15,2613
+73,"Prov. Sulawesi Selatan","Kelas C",33,4914
+73,"Prov. Sulawesi Selatan","Kelas D",6,353
+73,"Prov. Sulawesi Selatan","Belum Ditetapkan Kelas",20,966
+74,"Prov. Sulawesi Tenggara","Kelas A",0,0
+74,"Prov. Sulawesi Tenggara","Kelas B",3,401
+74,"Prov. Sulawesi Tenggara","Kelas C",7,756
+74,"Prov. Sulawesi Tenggara","Kelas D",4,351
+74,"Prov. Sulawesi Tenggara","Belum Ditetapkan Kelas",9,379
+75,"Prov. Gorontalo","Kelas A",0,0
+75,"Prov. Gorontalo","Kelas B",2,581
+75,"Prov. Gorontalo","Kelas C",3,200
+75,"Prov. Gorontalo","Kelas D",3,90
+75,"Prov. Gorontalo","Belum Ditetapkan Kelas",3,129
+76,"Prov. Sulawesi Barat","Kelas A",0,0
+76,"Prov. Sulawesi Barat","Kelas B",0,0
+76,"Prov. Sulawesi Barat","Kelas C",2,285
+76,"Prov. Sulawesi Barat","Kelas D",2,216
+76,"Prov. Sulawesi Barat","Belum Ditetapkan Kelas",4,209
+81,"Prov. Maluku","Kelas A",0,0
+81,"Prov. Maluku","Kelas B",2,517
+81,"Prov. Maluku","Kelas C",3,401
+81,"Prov. Maluku","Kelas D",13,629
+81,"Prov. Maluku","Belum Ditetapkan Kelas",8,647
+82,"Prov. Maluku Utara","Kelas A",0,0
+82,"Prov. Maluku Utara","Kelas B",1,160
+82,"Prov. Maluku Utara","Kelas C",3,310
+82,"Prov. Maluku Utara","Kelas D",9,638
+82,"Prov. Maluku Utara","Belum Ditetapkan Kelas",4,81
+91,"Prov. Papua Barat","Kelas A",0,0
+91,"Prov. Papua Barat","Kelas B",0,0
+91,"Prov. Papua Barat","Kelas C",4,621
+91,"Prov. Papua Barat","Kelas D",4,364
+91,"Prov. Papua Barat","Belum Ditetapkan Kelas",5,190
+94,"Prov. Papua","Kelas A",0,0
+94,"Prov. Papua","Kelas B",1,444
+94,"Prov. Papua","Kelas C",9,1233
+94,"Prov. Papua","Kelas D",11,799
+94,"Prov. Papua","Belum Ditetapkan Kelas",13,406
